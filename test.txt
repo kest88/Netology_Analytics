@@ -1,1 +1,3 @@
 my first in this git
+
+some big changes 
